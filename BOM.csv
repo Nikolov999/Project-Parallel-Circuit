@@ -1,0 +1,4 @@
+Reference,Quantity,Value,Description,Footprint
+J1,1,Conn_01x02,"2-pin 2.54 mm through-hole vertical pin header","Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
+"R1,R2",2,330R,"330 ohm through-hole resistor; DIN0207 vertical mounting footprint","Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical"
+"D1,D2",2,LED,"5 mm through-hole LED; actual colour/part number not specified","LED_THT:LED_D5.0mm"

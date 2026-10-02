@@ -1,0 +1,9 @@
+# Keep source and documentation text-normalized
+*.md text eol=lf
+*.csv text eol=lf
+*.kicad_pro text eol=lf
+*.kicad_sch text eol=lf
+*.kicad_pcb text eol=lf
+
+# Images are binary
+*.png binary

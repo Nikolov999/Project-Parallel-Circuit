@@ -1,0 +1,13 @@
+Supplied voltage is 5V. Vs = 5V
+Foraward voltage(voltage needed for the LED to conduct normal and produce light). Vf = 2V
+Vr (voltage accross the resistor). Vr = Vs - Vf = 5V - 2V = 3V
+
+Resistance. R = 330R
+
+V = IR (Voltage is current times resistance)
+
+I = Vr/R = 3/330v = 9.1 mA1
+
+Since both branches have the same resistance and components in this case the current is the same amount.
+
+It = I1 + I2 = 9.1 + 9.1 = 18.2 mA

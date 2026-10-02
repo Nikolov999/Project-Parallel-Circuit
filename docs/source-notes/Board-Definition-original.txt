@@ -1,0 +1,7 @@
+VoltageL: 5V
+Outputs: 2 LED Indicators
+Topoligy: parallel branches
+Target LED current: 9 ,A per LED
+Resistors: 3030 Ohms each
+Connector: 2-pin 
+PCB Type: 2-layer

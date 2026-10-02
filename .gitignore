@@ -1,0 +1,20 @@
+# KiCad local/user state
+*.kicad_prl
+*.kicad_sch-bak
+*.kicad_pcb-bak
+*.kicad_pro-bak
+*-backups/
+
+# KiCad lock/temp files
+~*.lck
+*.lck
+*.bak
+
+# Legacy cache/local files
+fp-info-cache
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+*.swp
+*.tmp
